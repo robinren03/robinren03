@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robinren03
-- 👀 I’m interested in GPU scheduling and the interdisciplinary fields of computer science and economics & finance!
+- 👀 I’m interested in computer network security and the interdisciplinary fields of computer science and economics & finance!
 - 🌱 I’m currently learning Computer Science and Technology and Economics & Finance in Tsinghua.
-- 💞️ I’m looking for a graduate position in CS or ECON.
+- 💞️ I will start my graduate period in Tsinghua in 2023.
 - 📫 E-mail me at any time to ryy19@mails.tsinghua.edu.cn (This E-mail will be valid until July 1, 2023) or robinren03@outlook.com (This E-mail will be always valid, but I check less often.)
